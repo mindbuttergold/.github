@@ -1,6 +1,6 @@
-# mindbuttergold 🧠 🧈 🏆
+![mindbuttergold_logo_black_teal_smaller](https://github.com/user-attachments/assets/ab814527-bc60-4d6f-bb4b-4306fd86c1ca)
 
-![mindbuttergold_logo_black_teal_resized](https://github.com/user-attachments/assets/98af1ab7-d9db-4a15-a529-9a75fe38407c)
+# mindbuttergold
 
 ## The Vision
 
