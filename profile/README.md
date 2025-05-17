@@ -1,5 +1,7 @@
 # mindbuttergold 🧠 🧈 🏆
 
+![mindbuttergold_logo_black_teal](https://github.com/user-attachments/assets/fe02174f-b073-4866-b693-6419c882eeba)
+
 ## The Vision
 
 To help modern best practices become standard practice, across the software industry at large.
