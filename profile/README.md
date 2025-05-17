@@ -11,7 +11,7 @@ To make best practices tangible and accessible by housing production-quality, wo
 ## Guiding Values
 
 - ### Show, don't tell
-  Best practices should be demonstrated through complete, working code setups.
+  Best practices should be demonstrated through complete, working code setups.  
   Feedback must include clear, actionable methods for how to improve that code.
 
 - ### Usability is expected
@@ -19,7 +19,7 @@ To make best practices tangible and accessible by housing production-quality, wo
   Community members should be able to use the code with as little friction as possible.
 
 - ### Quality over speed
-  Code must be production-quality, well-designed, proven to be working, and aligned with clearly supported best practices. 
+  Code must be production-quality, well-designed, proven to be working, and aligned with clearly supported best practices.  
   This project's development process is geared towards thoughtful demonstration of best practices, rather than moving fast. 
 
 - ### Debate ideas, not people
