@@ -43,4 +43,4 @@ See the README in each respository for how to employ that code in your own proje
 ## Maintainers
 
 This project is maintained by:
-- @Lstedmanfalls
+- [Lisa Stedman-Falls](https://github.com/Lstedmanfalls)
