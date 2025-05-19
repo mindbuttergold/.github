@@ -39,3 +39,8 @@ This project is fully open source, and all code is freely usable and adaptable.
 
 Each repository in this public organization houses one or more demonstrations of best practices.  
 See the README in each respository for how to employ that code in your own projects or work.
+
+## Maintainers
+
+This project is maintained by:
+- @Lstedmanfalls
