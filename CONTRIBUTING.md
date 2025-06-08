@@ -6,14 +6,13 @@ Welcome! Thank you very much for your interest in contributing. We are grateful 
 mindbuttergold is a public collection of production-quality demonstrations showing modern software and infrastructure best practices. Contributions are open to anyone, as long as they meet the guidelines outlined below.
 
 <!-- omit from toc -->
-# Table of Contents
+## Table of Contents
 
 - [Contributing New Ideas](#contributing-new-ideas)
 - [Code Contribution Guidelines](#code-contribution-guidelines)
 - [Commit Requirements](#commit-requirements)
 - [Pull Request Requirements](#pull-request-requirements)
 - [Code Contribution Process](#code-contribution-process)
-
 
 ## Contributing New Ideas
 

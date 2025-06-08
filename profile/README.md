@@ -1,4 +1,19 @@
+<!-- omit from toc -->
 # mindbuttergold 🧠 🧈 🏆
+
+<!-- omit from toc -->
+## Table of Contents
+
+- [The Vision](#the-vision)
+- [The Mission](#the-mission)
+- [Guiding Values](#guiding-values)
+- [Community Usage](#community-usage)
+- [Contributing New Ideas](#contributing-new-ideas)
+- [Code Contribution Guidelines](#code-contribution-guidelines)
+  - [Commit Requirements](#commit-requirements)
+  - [Pull Request Requirements](#pull-request-requirements)
+  - [Code Contribution Process](#code-contribution-process)
+- [Maintainers](#maintainers)
 
 ## The Vision
 
