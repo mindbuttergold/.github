@@ -31,11 +31,11 @@ To make best practices tangible and accessible by housing production-quality, wo
 Code contributions are welcome from anyone, as long as they align with the guiding values.  
 Code reviews, demonstration ideas, and discussions are welcome from anyone, as long as they align with the guiding values.  
 
-**See the [Contributing repo](https://github.com/mindbuttergold/contributing) for instructions on contributing, including the Code of Conduct.**
+**All repositories will have a link to the org-wide CONTRIBUTING doc with information on how to contribute, as well as the CODE_OF_CONDUCT**
 
 ## Community Usage
 
-This project is fully open source, and all code is freely usable and adaptable.
+This project is fully open source, and all code is freely usable and adaptable. See the LICENSE in each repository.
 
 Each repository in this public organization houses one or more demonstrations of best practices.  
 See the README in each respository for how to employ that code in your own projects or work.
