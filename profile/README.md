@@ -46,7 +46,7 @@ To make best practices tangible and accessible by housing production-quality, wo
 This project is fully open source, and all code is freely usable and adaptable. See the LICENSE in each repository.
 
 Each repository in this public organization houses one or more demonstrations of best practices.  
-See the README in each respository for how to employ that code in your own projects or work.
+See the README in each repository for how to employ that code in your own projects or work.
 
 ## Contributing New Ideas
 
@@ -95,7 +95,7 @@ Every PR must include:
 
 To contribute code to a repository in this project, follow these steps:
 
-**1. Review the [Code Contribution Requirements](#code-contribution-requirements)**
+**1. Review the [Code Contribution Requirements](https://github.com/mindbuttergold/.github/blob/main/CONTRIBUTING.md)**
 
 **2. Fork the Repository** 
 
@@ -137,7 +137,7 @@ You can use any forum desired to solicit feedback from the community, such as Li
 
 **11. Respond to Feedback**
 
-Make any requested changes or provide supporting rationale for not making changes. Debate is welcome and encouraged, but abide by the [Code of Conduct](./CODE_OF_CONDUCT.md).
+Make any requested changes or provide supporting rationale for not making changes. Debate is welcome and encouraged, but abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Maintainers
 
