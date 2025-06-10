@@ -52,7 +52,7 @@ See the README in each respository for how to employ that code in your own proje
 
 If you have a new idea for a best practice demonstration, but there is no relevant existing repository:
 
-- Open a new "Idea" post in the Discussions section.
+- Open a new "Idea" post in the [Discussions](https://github.com/orgs/mindbuttergold/discussions) section.
 - If the idea receives at least 10 thumbs up, a maintainer will create a public repository for it (Github doesn't allow community members to create repositories directly). This bar is set high, to help promote engagement and ensure best practices demonstrated are valuable to the community at large.
 - Once the repository is created, anyone can open a PR to contribute to it.
 
