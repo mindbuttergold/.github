@@ -58,7 +58,7 @@ If you have a new idea for a best practice demonstration, but there is no releva
 
 ## Code Contribution Guidelines
 
-**All repositories will have a link to the org-wide CONTRIBUTING doc with this same information on how to contribute, as well as the CODE_OF_CONDUCT**
+Refer to the [CONTRIBUTING doc](../CONTRIBUTING.md). All repositories will also have a link to this doc when you submit your first PR.
 
 Code should be clear, complete, and fully usable in real-world systems. It should align with mindbuttergold's [Guiding Values](https://github.com/mindbuttergold#guiding-values).
 
@@ -95,8 +95,7 @@ Every PR must include:
 
 To contribute code to a repository in this project, follow these steps:
 
-**1. Review the [Code Contribution Requirements](https://github.com/mindbuttergold/.github/blob/main/CONTRIBUTING.md)**
-
+**1. Review the [Code Contribution Requirements](../CONTRIBUTING.md)**
 **2. Fork the Repository** 
 
 Go to the GitHub page of the repository and click the **"Fork"** button at the top-right corner. This creates a copy of the repository under your GitHub account. See [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) for more information.
