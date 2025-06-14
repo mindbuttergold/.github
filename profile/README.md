@@ -96,45 +96,38 @@ Every PR must include:
 To contribute code to a repository in this project, follow these steps:
 
 **1. Review the [Code Contribution Requirements](../CONTRIBUTING.md)**
+
 **2. Fork the Repository** 
 
 Go to the GitHub page of the repository and click the **"Fork"** button at the top-right corner. This creates a copy of the repository under your GitHub account. See [About Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) for more information.
 
-**3. Clone Your Fork** 
+**3. Clone Your Fork Locally** 
   ```bash
   git clone <FORKED_REPO_URL>
   cd <FORKED_REPO_NAME>
   ```
 
-**4. Add the Original Repository as Remote Upstream**
+**4. Create a Feature Branch**
 
-  ```bash
-  git remote add upstream <ORIGINAL_REPO_URL>
-  
-  git remote -v
-  ```
+**5. Make Your Changes**
 
-**5. Create a Feature Branch**
-
-**6. Make Your Changes**
-
-**7. Commit Your Changes**
+**6. Commit Your Changes**
 
 Review the [Commit Requirements](#commit-requirements).
 
-**8. Push Your Branch to Your Fork**
+**7. Push Your Branch to Your Fork**
 
-**9. Open a Pull Request in the Original Repo** 
+**8. Open a Pull Request in the Original Repo** 
 
 Review the [Pull Request Requirements](#pull-request-requirements).
 
 See [Creating a Pull Request From a Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for more information.
 
-**10. Solicit Community Feedback / Approval**
+**9. Solicit Community Feedback / Approval**
 
 You can use any forum desired to solicit feedback from the community, such as LinkedIn, or Discussions within the repository or organization.
 
-**11. Respond to Feedback**
+**10. Respond to Feedback**
 
 Make any requested changes or provide supporting rationale for not making changes. Debate is welcome and encouraged, but abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
