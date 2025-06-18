@@ -13,6 +13,7 @@
   - [Commit Requirements](#commit-requirements)
   - [Pull Request Requirements](#pull-request-requirements)
   - [Code Contribution Process](#code-contribution-process)
+- [Sponsors](#sponsors)
 - [Maintainers](#maintainers)
 
 ## The Vision
@@ -131,7 +132,32 @@ You can use any forum desired to solicit feedback from the community, such as Li
 
 Make any requested changes or provide supporting rationale for not making changes. Debate is welcome and encouraged, but abide by the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
+## Sponsors
+
+🫶 Thank you so much to our sponsors who generously support the mindbuttergold vision, mission, and values!
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="150" style="border: none;">
+      <img src="https://github.com/sebastian2296.png" alt="sebastian2296" width="80" height="80" style="border-radius: 50%;">
+      <br>
+      <a href="https://github.com/sebastian2296">sebastian2296</a>
+    </td>
+  </tr>
+</table>
+
 ## Maintainers
 
-This project is maintained by:
-- [Lisa Stedman-Falls](https://github.com/Lstedmanfalls)
+Tag us `@mindbuttergold/admin` if you have questions, feedback, or to report a non-security issue. To report a security issue, please see the [SECURITY guide](/SECURITY.md).
+
+If you would like to help out as a mindbuttergold maintainer, message [Lisa Stedman-Falls](https://www.linkedin.com/in/lstedmanfalls/) on LinkedIn, or send an email to mindbutter.gold@gmail.com.
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="150" style="border: none;">
+      <img src="https://github.com/Lstedmanfalls.png" alt="Lisa Stedman-Falls" width="80" height="80" style="border-radius: 50%;">
+      <br>
+      <a href="https://github.com/Lstedmanfalls">Lisa Stedman-Falls</a>
+    </td>
+  </tr>
+</table>
