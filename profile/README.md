@@ -1,7 +1,7 @@
 <!-- omit from toc -->
 # mindbuttergold
 
-<p align="center">
+<p>
   <img src="../mindbuttergold_logo_black_teal.png" width="500">
 </p>
 
