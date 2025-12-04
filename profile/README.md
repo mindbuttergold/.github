@@ -1,7 +1,9 @@
 <!-- omit from toc -->
 # mindbuttergold
 
-![alt text](../mindbuttergold_logo_black_teal.png "mindbuttergold logo of gold brain dripping gold butter with teal highlights and black background")
+<p align="center">
+  <img src="../mindbuttergold_logo_black_teal.png" width="200">
+</p>
 
 <!-- omit from toc -->
 ## Table of Contents
