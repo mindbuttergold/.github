@@ -2,7 +2,7 @@
 # mindbuttergold
 
 <p>
-  <img src="../mindbuttergold_logo_black_teal.png" width="500">
+  <img src="../mindbuttergold_logo_black_teal.png" width="400">
 </p>
 
 <!-- omit from toc -->
