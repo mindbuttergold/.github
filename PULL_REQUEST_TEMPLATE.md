@@ -21,8 +21,7 @@
 ### Contribution Reminders
 
 Your PR needs:
-- At least 5 thumbs up from members of the community to be approved / merged
-- Final review / approval from at least one maintainer
+- Approval from at least one maintainer
 - Clear, complete, and fully usable code for real-world systems
 - No placeholder, unfinished, or copied code with incompatible licensing
 - No redundant comments or unrelated artifacts
